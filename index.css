@@ -1,0 +1,50 @@
+
+h1{
+    text-align: center;
+    box-shadow: 10px 10px 8px #1477b9 ;
+    display: inline-block;
+    color: rgb(39, 15, 107);
+}
+
+
+
+body{
+    background-color: #81b5d8;
+    
+}
+
+h2{
+    background-color: rgb(49, 141, 172);
+    border: 2px solid;
+    text-align: center;
+    margin: 50px;
+    padding: 20px;
+    color: rgb(16, 86, 156);
+}
+
+h3{
+    text-align: center;
+    color: darkmagenta;
+}
+
+.container {
+    display: flex; /* Enables flexbox */
+    justify-content: center; /* Centers the boxes */
+    gap: 1px; /* Adds space between boxes */
+}
+
+.box {
+    background-color: #85bce0;
+    width: 200px;
+    border: 10px solid black;
+    margin: 2px;
+    padding: 10px;
+}
+
+img{
+    border: 100px;
+    width: 390px;
+    height: 300px;
+    padding: 4px;
+}
+
